@@ -29,8 +29,8 @@ def client() -> None:
         and handle it's input messages
     '''
 
-    SERVER_ADDRESS = '127.0.0.1'
-    SERVER_PORT = 12000
+    SERVER_ADDRESS = '10.42.18.33'
+    SERVER_PORT = 1015
 
     try:
         # Instantiate socket and start connection with server
